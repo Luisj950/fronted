@@ -2,7 +2,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { NotificationFormComponent } from './notification-form.component';
 
-describe('NotificationFromComponent', () => {
+describe('NotificationFormComponent', () => {
   let component: NotificationFormComponent;
   let fixture: ComponentFixture<NotificationFormComponent>;
 
