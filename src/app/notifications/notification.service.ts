@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class NotificationService {
-  private apiUrl = 'http://localhost:3000/notifications';
+  private apiUrl = 'https://notification-api.onrender.com/notifications';
 
   constructor(private http: HttpClient) {}
 
